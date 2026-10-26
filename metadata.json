@@ -1,0 +1,6 @@
+{
+  "name": "MediSafe AI – Drug Interaction Checker",
+  "description": "An AI-powered clinical drug-drug interaction checker for pharmacy students, healthcare professionals, and patients to evaluate medication safety.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
